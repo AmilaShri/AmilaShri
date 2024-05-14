@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amila Warnasooriya</h1>
 <h3 align="center">Rising Full Stack Developer | Striving for Excellence, One Line of Code at a Time</h3>
 
-- 🌱 I’m currently learning nodejs,python and reactjs while following National Vocational Qualification Diploma in Vocation Training Authority.<br> Also looking forward to learn android development**<br>
+- 🌱 I’m currently learning nodejs,python and reactjs while following National Vocational Qualification Diploma in Vocation Training Authority.<br> Also looking forward to learn android development<br>
 
-- 📫 How to reach me **amilawarnasooriya850@gmail.com
+- 📫 How to reach me :- amilawarnasooriya850@gmail.com
   
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif">
 <h3 align="left">Connect with me:</h3>
